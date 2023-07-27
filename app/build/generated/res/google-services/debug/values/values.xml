@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="default_web_client_id" translatable="false">242460547646-j2f7hmc8alffk8n3aa28imrvf9gvko75.apps.googleusercontent.com</string>
+    <string name="gcm_defaultSenderId" translatable="false">242460547646</string>
+    <string name="google_api_key" translatable="false">AIzaSyCydBmfI3gcdu1mwmI7ChdlGsQigWOv_u4</string>
+    <string name="google_app_id" translatable="false">1:242460547646:android:b8376166bcc7cb45354f6f</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyCydBmfI3gcdu1mwmI7ChdlGsQigWOv_u4</string>
+    <string name="google_storage_bucket" translatable="false">webvievv-8631a.appspot.com</string>
+    <string name="project_id" translatable="false">webvievv-8631a</string>
+</resources>

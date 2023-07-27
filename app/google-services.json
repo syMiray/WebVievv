@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "242460547646",
+    "project_id": "webvievv-8631a",
+    "storage_bucket": "webvievv-8631a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:242460547646:android:b8376166bcc7cb45354f6f",
+        "android_client_info": {
+          "package_name": "com.example.webvievv"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "242460547646-j2f7hmc8alffk8n3aa28imrvf9gvko75.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCydBmfI3gcdu1mwmI7ChdlGsQigWOv_u4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "242460547646-j2f7hmc8alffk8n3aa28imrvf9gvko75.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
